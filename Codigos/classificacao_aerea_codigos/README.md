@@ -1,0 +1,1 @@
+Códigos da classificação de imagens aéreas de acordo com o icm. O dataset usado nessa parte foi o dataset de crops de imagens aéreas. O repositório também possui um código que utiliza a ferramenta lime para gerar explicabilidade para o modelo treinado.

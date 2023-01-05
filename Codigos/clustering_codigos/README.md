@@ -1,0 +1,1 @@
+Códigos referentes a clusterizacao feita a partir das mascaras de segmentacao. Para obter a contagem dos pixels de cada mascara utilize o script count_masks_pixels.py. Depois use os notebooks para as analises necessarias.
